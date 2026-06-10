@@ -1,0 +1,36 @@
+# Python
+servicebackend/.venv/
+servicebackend/venv/
+servicebackend/__pycache__/
+servicebackend/**/*.pyc
+
+# Python env
+servicebackend/.env
+servicebackend/.env.local
+
+# Upload files
+servicebackend/uploads/
+
+# Node
+frontend/node_modules/
+
+# Frontend env
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+
+# Build output
+frontend/dist/
+servicebackend/dist/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
