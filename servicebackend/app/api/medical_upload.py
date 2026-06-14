@@ -22,7 +22,6 @@ from app.agents.multi_agent import get_long_term_memory
 # 创建文档路由实例
 router = APIRouter()
 
-
 # 文档存储目录路径
 UPLOAD_DIR = "./uploads"
 # 如果目录不存在，则创建目录
